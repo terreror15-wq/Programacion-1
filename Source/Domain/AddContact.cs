@@ -14,7 +14,7 @@ namespace ContactProyect.Domain
         {
             c.Id = idCount++;
             AddForm.ListContacts.Add(c);
-            Console.WriteLine("Contact added ✅");
+            Console.WriteLine("Contact added ");
         }
     }
 }
