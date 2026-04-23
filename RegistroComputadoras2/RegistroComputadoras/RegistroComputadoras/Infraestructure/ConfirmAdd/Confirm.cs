@@ -13,7 +13,7 @@ namespace RegistroComputadoras.ConfirmAdd
     public class Confirm
     {
 
-        public static List<Computer> computers = new List<Computer>();
+      
 
         public static async Task Confirmadd(Computer pc)
         {
